@@ -15,7 +15,7 @@
         "angularjs"
     ],
     "dependencies": {
-        "trix": "wenjieyeo/trix#9b8cb77e72f0930755de6421d696e5fd69fdbd87",
+        "trix": "wenjieyeo/trix#4e2e67b277220eb970b049534362166c28c8cc81",
         "angular": ">=1.2.0"
     },
     "ignore": [
